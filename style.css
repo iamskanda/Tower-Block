@@ -104,3 +104,7 @@ html, body {
 #container.ended .game-over p {
   transition-delay: 0.3s;
 }
+
+.sg{
+  display:none;
+}
